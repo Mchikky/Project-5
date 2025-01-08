@@ -17,13 +17,23 @@ Business Problem: Optimize a store's data management with Python
 Project Scope:
 - Data Preprocessing
 - Exploratory Data Analysis
-- Generation of Key Performance Indicators (KPIs)
-- 
+- Key Performance Indicators (KPIs)
+- Generation of graphics and visual representation of data
 - Insights and Recommendations
-Analysis of Online wine sales stored in 3 excel worksheets. I cleaned the data using the following steps:
+
+Data Preprocessing
+- Imported 3 excel worksheets. 
+- Data cleaning using the following steps:
 - Filled missing data with zero.
 - Joined the 3 data tables.
+
+Exploratory Data Analysis
+- Key Performance Indicators (KPIs)
 - Summarized the data into total sales by each categories, total profit and the best selling category.
 - Checked for the outliers, normality, and caluclated zscores.
+
+Generation of graphics and visual representation of data
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
+
+Insights and Recommendations
 

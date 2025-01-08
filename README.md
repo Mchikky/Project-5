@@ -1,17 +1,17 @@
-Project 5: Optimize a store's data management with R or Python 
+# Project 5 
+Optimize a store's data management with R or Python 
 
 3 Missions:
 
-Match an export from the ERP containing product references, their sales prices, and their stock status, with an export from a table in the CMS tool containing information on products sold online.
+1. Match an export from the ERP containing product references, their sales prices, and their stock status, with an export from a table in the CMS tool containing information on products sold online.
 
-Calculate the revenue per product, as well as the total revenue generated online.
+2. Calculate the revenue per product, as well as the total revenue generated online.
 
-Perform an analysis on input errors in certain product prices to detect possible outliers, list them, and create a graphical representation for better readability.
+3. Perform an analysis on input errors in certain product prices to detect possible outliers, list them, and create a graphical representation for better readability.
 
-Reconcile the two exports from the web and ERP.
+4. Reconcile the two exports from the web and ERP.
 
 
-# Project-5
 Business Problem: Optimize a store's data management with Python
 
 Project Scope:

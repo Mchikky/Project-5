@@ -3,7 +3,7 @@ Optimize store's data management with R or Python
 
 ## The 3 Missions are:
 
-1. Match an export from the ERP containing product references, their sales prices, and their stock status, with an export from a table in the CMS tool containing information on products sold online.
+1. Match an export from the Entreprise Resource Planning (ERP) containing product references, their sales prices, and their stock status, with an export from a table in the Content Management System (CMS) tool containing information on products sold online.
 
 2. Calculate the revenue per product, as well as the total revenue generated online.
 

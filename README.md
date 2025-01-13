@@ -32,7 +32,7 @@ Project Scope:
 - Summarized the data into total sales by each categories, total profit and the best selling category.
 - Checked for the outliers, normality, and caluclated zscores.
 
-##vGeneration of graphics and visual representation of data
+## Generation of graphics and visual representation of data
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
 
 ## Insights and Recommendations

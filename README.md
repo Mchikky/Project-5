@@ -1,5 +1,5 @@
 # Project 5 
-Optimize a store's data management with R or Python 
+Optimize store's data management with R or Python 
 
 The 3 Missions are:
 
@@ -12,7 +12,7 @@ The 3 Missions are:
 4. Reconcile the two exports from the web and ERP.
 
 
-# Business Problem: Optimize a store's data management with Python
+# Business Problem: Optimize store's data management with Python
 
 Project Scope:
 - Data Preprocessing

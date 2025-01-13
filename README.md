@@ -1,7 +1,7 @@
 # Project 5 
 Optimize store's data management with R or Python 
 
-The 3 Missions are:
+## The 3 Missions are:
 
 1. Match an export from the ERP containing product references, their sales prices, and their stock status, with an export from a table in the CMS tool containing information on products sold online.
 
@@ -12,28 +12,28 @@ The 3 Missions are:
 4. Reconcile the two exports from the web and ERP.
 
 
-# Business Problem: Optimize store's data management with Python
+## Business Problem: Optimize store's data management with Python
 
-## Project Scope:
+### Project Scope:
 - Data Preprocessing
 - Exploratory Data Analysis
 - Key Performance Indicators (KPIs)
 - Generation of graphics and visual representation of data
 - Insights and Recommendations
 
-## Data Preprocessing
+### Data Preprocessing
 - Imported 3 excel worksheets. 
 - Data cleaning using the following steps:
 - Filled missing data with zero.
 - Joined the 3 data tables.
 
-## Exploratory Data Analysis
+### Exploratory Data Analysis
 - Key Performance Indicators (KPIs)
 - Summarized the data into total sales by each categories, total profit and the best selling category.
 - Checked for the outliers, normality, and caluclated zscores.
 
-## Generation of graphics and visual representation of data
+### Generation of graphics and visual representation of data
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
 
-## Insights and Recommendations
+### Insights and Recommendations
 

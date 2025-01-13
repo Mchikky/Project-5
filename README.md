@@ -14,7 +14,7 @@ The 3 Missions are:
 
 # Business Problem: Optimize store's data management with Python
 
-Project Scope:
+## Project Scope:
 - Data Preprocessing
 - Exploratory Data Analysis
 - Key Performance Indicators (KPIs)

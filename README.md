@@ -36,4 +36,5 @@ Optimize store's data management with R or Python
 - Use bar plots for summaries, line graph for trends and scatter plot for relationships.
 
 ### Insights and Recommendations
+- There is no need to remove the outliers, the costly goods; there are several ostentatioius goods that are part of the stock 
 
